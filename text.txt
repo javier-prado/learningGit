@@ -1,0 +1,2 @@
+Some simple edits to a file that is new.
+This file will not always be new.
